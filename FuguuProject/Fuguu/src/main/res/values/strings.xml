@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fuguu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="load_picture">Load Picture</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="title_activity_timeline">TimelineActivity</string>
+    <string name="title_activity_app_login">Login</string>
+    <string name="title_activity_app_register">Register</string>
+    <string name="title_activity_singleitemview">SingleItemViewActivity</string>
+
+
+</resources>
